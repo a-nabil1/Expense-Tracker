@@ -1,0 +1,39 @@
+Number,Date,Account,Amount,Subcategory,Memo,category
+0,28/09/2022,20-25-19 13348814,-50,Funds Transfer,"DAWAT TOOTING         	DEPOSIT FT	",uni
+"	0",28/09/2022,20-25-19 13348814,-45,Debit,"CANNING CAR CARE      	ON 27 SEP CPM	",car
+"	0",27/09/2022,20-25-19 13348814,78.46,Counter Credit,"TELEPERFORMANCE LT    	6122089 BGC	",
+"	0",26/09/2022,20-25-19 13348814,-2.9,Debit,"TFL TRAVEL CH         	ON 25 SEP CPM	",travel
+0,26/09/2022,20-25-19 13348814,-20.39,Direct Debit,"THE GYM LTD           	6910317A-THE-GYM DDR	",health
+"	0",26/09/2022,20-25-19 13348814,-7.35,Debit,"TFL TRAVEL CH         	ON 24 SEP CPM	",travel
+"	0",22/09/2022,20-25-19 13348814,-6,Debit,"NYA*Nutrivend Ltd     	ON 21 SEP CPM	",food
+"	0",21/09/2022,20-25-19 13348814,-4.49,Debit,"APPLE.COM/BILL        IRELAND	ON 20 SEP CPM	",entertainment
+"	0",21/09/2022,20-25-19 13348814,-33,Debit,"J D SPORTS 803        	ON 20 SEP CPM	",shopping
+"	0",21/09/2022,20-25-19 13348814,-11.49,Debit,"BOOTS 1455            	ON 20 SEP CPM	",health
+"	0",20/09/2022,20-25-19 13348814,-15.8,Debit,"FRANZOS               	ON 18 SEP CPM	",food
+"	0",20/09/2022,20-25-19 13348814,-34,Debit,"TOP GOLF CHIGWELL     	ON 18 SEP CPM	",entertainment
+"	0",20/09/2022,20-25-19 13348814,-24.98,Debit,"SHELL 699 RAINHAM     	ON 18 SEP CPM	",car
+"	0",20/09/2022,20-25-19 13348814,-1.39,Debit,"SHELL 131 NEW ROAD    	ON 16 SEP CPM	",food
+"	0",20/09/2022,20-25-19 13348814,-5,Debit,"Dagenham Jamme Mas    	ON 16 SEP CPM	",charity
+"	0",16/09/2022,20-25-19 13348814,-990,Funds Transfer,"N AHMAD               	CHECKING NEW ACC FT	",misc
+"	0",16/09/2022,20-25-19 13348814,-10,Funds Transfer,"N AHMAD               	CHECKING NEW ACC FT	",misc
+"	0",15/09/2022,20-25-19 13348814,-6.91,Debit,"TOOLSTATION LTD       	ON 14 SEP CPM	",misc
+"	0",15/09/2022,20-25-19 13348814,-19,Debit,"B Q DAGENHAM EXPRE    	ON 14 SEP CPM	",misc
+"	0",15/09/2022,20-25-19 13348814,-9.1,Debit,"ASDA SUPERSTORE       	ON 14 SEP CPM	",misc
+"	0",14/09/2022,20-25-19 13348814,-29.39,Debit,"B&M 627 - MERRIELA    	ON 13 SEP CPM	",misc
+"	0",14/09/2022,20-25-19 13348814,-4,Funds Transfer,"ISRAR MAHMUD          	PETROL FT	",entertainment
+"	0",14/09/2022,20-25-19 13348814,-9,Funds Transfer,"MR SYED HASAN RASH    	SPICE HUT FT	",food
+"	0",12/09/2022,20-25-19 13348814,-4.5,Debit,"BOOTS 1455            	ON 10 SEP CPM	",health
+"	0",12/09/2022,20-25-19 13348814,-9.29,Debit,"TASTY KEBAB           	ON 09 SEP CPM	",food
+"	0",12/09/2022,20-25-19 13348814,-10,Debit,"Dagenham Jamme Mas    	ON 09 SEP CPM	",charity
+"	0",12/09/2022,20-25-19 13348814,-6.24,Debit,"ASDA SUPERSTORE       	ON 09 SEP CPM	",food
+"	0",05/09/2022,20-25-19 13348814,-1.59,Debit,"PPOINT_*KRISHNAS V    	ON 04 SEP CPM	",car
+0,05/09/2022,20-25-19 13348814,-128.75,Direct Debit,"PAYPAL PAYMENT        	4H2J222B9QRY4 DDR	",shopping
+"	0",05/09/2022,20-25-19 13348814,-30,Debit,"PRIMARK 671           	ON 01 SEP CPM	",shopping
+"	0",05/09/2022,20-25-19 13348814,-21,Debit,"PRIMARK 671           	ON 01 SEP CPM	",shopping
+"	0",05/09/2022,20-25-19 13348814,-5,Debit,"Dagenham Jamme Mas    	ON 02 SEP CPM	",charity
+"	0",05/09/2022,20-25-19 13348814,-18.45,Debit,"ALL STAR STRATFORD    	ON 01 SEP CPM	",entertainment
+"	0",02/09/2022,20-25-19 13348814,-11.9,Debit,"ZTL*THUNDERBIRD FR    	ON 01 SEP CPM	",food
+"	0",02/09/2022,20-25-19 13348814,-7.88,Debit,"ASDA SUPERSTORE       	ON 01 SEP CPM	",food
+"	0",02/09/2022,20-25-19 13348814,-4,Funds Transfer,"ISRAR MAHMUD          	PETROL FT	",entertainment
+"	0",31/08/2022,20-25-19 13348814,-33.38,Card Purchase,"AMZNMktplace          	ON 30 AUG BCC	",entertainment
+"	",,,,,,
